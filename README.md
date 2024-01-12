@@ -1,4 +1,5 @@
-# Demo
+
+
 My first Git Repo
 <br/>
-Author: Ela Jabi
+Author: ElaJabi (Front-end Developer)
